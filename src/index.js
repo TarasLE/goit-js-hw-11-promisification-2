@@ -9,7 +9,7 @@ const toggleUserState = (allUsers, userName, callback) => {
   callback(updatedUsers);
 };
 
-// const logger = updatedUsers => console.table(updatedUsers);
+const logger = updatedUsers => console.table(updatedUsers);
 
 
 toggleUserState(users, 'Mango', logger);
