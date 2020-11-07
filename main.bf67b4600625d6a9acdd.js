@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(a,e,n){"use strict";n.r(e);n("lmye"),n("D/wG"),n("wCa+");var i=[{name:"Mango",active:!0},{name:"Poly",active:!1},{name:"Ajax",active:!0},{name:"Lux",active:!1}],c=function(a,e,n){n(a.map((function(a){return a.name===e?Object.assign({},a,{active:!a.active}):a})))};c(i,"Mango",logger),c(i,"Lux",logger)}},[["QfWi",1,2]]]);
+//# sourceMappingURL=main.bf67b4600625d6a9acdd.js.map
